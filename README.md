@@ -35,3 +35,9 @@ Creating a GitHub Repository showcasing contributions made to Open Source Projec
 - Found a particular command not working so raised an issue
 - **Issue ID**: - [#12728 - Nix gets broken if a substituter is unreachable](https://github.com/NixOS/nix/issues/12728)
 
+### **3. Project Name:- First Contributions**
+- **Repository**: [First Contributions Repo](https://github.com/shrutimemane/first-contributions)
+- **Issues Solved**:
+  - Added my name to the `CONTRIBUTORS.md` file.
+  - Learned how to contribute to open-source projects using GitHub.
+- **Pull Request**: (https://github.com/firstcontributions/first-contributions/pull/95763#issue-2941362218)
