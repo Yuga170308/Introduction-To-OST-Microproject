@@ -21,3 +21,17 @@ Creating a GitHub Repository showcasing contributions made to Open Source Projec
 - Improved the clarity of installation instructions to make the setup process easier for new users.
 - Example of change: Corrected grammar mistakes and reworded confusing sentences for better clarity.
 - **Pull Request**:[#2132 - Update README.md](https://github.com/mantisbt/mantisbt/pull/2132)
+
+
+### **2.Project Name:- NixOS**
+- **Repository**: [Nix OS Repo](https://github.com/NixOS/nix)
+
+- **Issues Solved**:
+- Enhanced documentation for stack-collapse.py
+- Example of change: Improved the programs readability by adding documentation wherever needed
+- **Pull Request**: [#12729 - Enhanced documentation for stack-collapse.py](https://github.com/NixOS/nix/pull/12729) - 
+
+- **Bug Raised**:
+- Found a particular command not working so raised an issue
+- **Issue ID**: - [#12728 - Nix gets broken if a substituter is unreachable](https://github.com/NixOS/nix/issues/12728)
+
