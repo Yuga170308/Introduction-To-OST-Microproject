@@ -41,3 +41,11 @@ Creating a GitHub Repository showcasing contributions made to Open Source Projec
   - Added my name to the `CONTRIBUTORS.md` file.
   - Learned how to contribute to open-source projects using GitHub.
 - **Pull Request**: (https://github.com/firstcontributions/first-contributions/pull/95763#issue-2941362218)
+
+### **4.Project Name:-VUE
+- **Repository**: [VUE JS REPO](https://github.com/vuejs/core)
+- **Issues Solved**:
+- Fixed typos in README.MD File
+- Changes the structure of documentation for better user interface.
+- **Pull Request**
+- (https://github.com/vuejs/vue/pull/13245)
