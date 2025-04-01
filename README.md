@@ -31,18 +31,18 @@ Creating a GitHub Repository showcasing contributions made to Open Source Projec
 - Example of change: Improved the programs readability by adding documentation wherever needed
 - **Pull Request**: [#12729 - Enhanced documentation for stack-collapse.py](https://github.com/NixOS/nix/pull/12729) - 
 
-- **Bug Raised**:
+### **3.Project Name:- Bug raised for unreachable sustituter:**
 - Found a particular command not working so raised an issue
 - **Issue ID**: - [#12728 - Nix gets broken if a substituter is unreachable](https://github.com/NixOS/nix/issues/12728)
 
-### **3. Project Name:- First Contributions**
+### **4. Project Name:- First Contributions**
 - **Repository**: [First Contributions Repo](https://github.com/shrutimemane/first-contributions)
 - **Issues Solved**:
   - Added my name to the `CONTRIBUTORS.md` file.
   - Learned how to contribute to open-source projects using GitHub.
 - **Pull Request**: (https://github.com/firstcontributions/first-contributions/pull/95763#issue-2941362218)
 
-### **4.Project Name:-VUE JS**
+### **5.Project Name:-VUE JS**
 - **Repository**: [VUE JS REPO](https://github.com/vuejs/core)
 - **Issues Solved**:
 - Fixed typos in README.MD File
